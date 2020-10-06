@@ -1,0 +1,11 @@
+*.pyc
+.DS_Store
+*.import
+.import
+*.o
+*.d
+*.apk
+
+/builds
+.project
+.settings
